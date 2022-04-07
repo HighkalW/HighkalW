@@ -1,10 +1,9 @@
 *my name's Highkal W*
 ==
-Institute Technology of State Electricity Company
+Participate on Mobile Development Path | Bangkit Academy led by Google, GoTo, & Traveloka 2022
 --
 # Halo semua! 
 
-Perkenalkan nama saya **Highkal W**.\
 
 Saya seorang **Mobile Enthusiast** di [Dicoding](https://www.dicoding.com/).
 
