@@ -1,10 +1,11 @@
 *my name's Highkal W*
 ==
-Participate on Mobile Development Path | Bangkit Academy led by Google, GoTo, & Traveloka 2022
+Software Quality Assurance | Mobile Developer | Bangkit Graduate led by Google, GoTo, & Traveloka 2022
 --
 # Halo semua! 
 
 
+Saya seorang **Software Quality Assurance** Intern di PT. Smartfren
 Saya seorang **Mobile Enthusiast** di [Dicoding](https://www.dicoding.com/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/highkal-w-45bab420a/)ku ya.
