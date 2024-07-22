@@ -10,8 +10,8 @@ ex - **QA Automation Engineering** Intern on Smartfren (Telecommunication Provid
 ex - **Test Engineering** Intern on Vidio (Broadcasting and Livestreaming Media).
 ex - **QA Engineer**  on StickEarn (Advertising).
 currect - **Technical Support** on PLN Icon Plus (Network and Telecommunication)
---
-Reach me more on [Linkedin](https://www.linkedin.com/in/highkalw).
+
+**Reach me more on [Linkedin](https://www.linkedin.com/in/highkalw).**
 
 <p align="left">
 <a href="https://github.com/HighkalW">
