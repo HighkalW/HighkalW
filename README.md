@@ -4,6 +4,7 @@ QA Engineer | Test Engineer | Technical Support | Mobile Developer | Bangkit Gra
 -- 
 
 Greating to folks out there! 
+--
 *Experience:* 
 ex - **QA Automation Engineering** Intern on Smartfren (Telecommunication Provider).
 ex - **Test Engineering** Intern on Vidio (Broadcasting and Livestreaming Media).
