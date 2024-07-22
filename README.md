@@ -5,12 +5,16 @@ QA Engineer | Test Engineer | Technical Support | Mobile Developer | Bangkit Gra
 
 Greating to folks out there! 
 --
-*Experience:* 
+*Experience:*
+--
 ex - **QA Automation Engineering** Intern on Smartfren (Telecommunication Provider).
+--
 ex - **Test Engineering** Intern on Vidio (Broadcasting and Livestreaming Media).
+--
 ex - **QA Engineer**  on StickEarn (Advertising).
+--
 currect - **Technical Support** on PLN Icon Plus (Network and Telecommunication)
-
+--
 Reach me more on [Linkedin](https://www.linkedin.com/in/highkalw).
 
 <p align="left">
