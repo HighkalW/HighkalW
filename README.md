@@ -1,14 +1,16 @@
-*my name's Highkal W*
+*I'm Highkal W*
 ==
-Software Quality Assurance | Mobile Developer | Bangkit Graduate led by Google, GoTo, & Traveloka 2022
---
-# Halo semua! 
+QA Engineer | Test Engineer | Technical Support | Mobile Developer | Bangkit Graduate led by Google, GoTo, & Traveloka 2022
+-- 
 
+Greating to folks out there! 
+*Experience:* 
+ex - **QA Automation Engineering** Intern on Smartfren (Telecommunication Provider).
+ex - **Test Engineering** Intern on Vidio (Broadcasting and Livestreaming Media).
+ex - **QA Engineer**  on StickEarn (Advertising).
+currect - **Technical Support** on PLN Icon Plus (Network and Telecommunication)
 
-Saya seorang **Software Quality Assurance** Intern di PT. Smartfren
-Saya seorang **Mobile Enthusiast** di [Dicoding](https://www.dicoding.com/).
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/highkal-w-45bab420a/)ku ya.
+Reach me more on [Linkedin](https://www.linkedin.com/in/highkalw).
 
 <p align="left">
 <a href="https://github.com/HighkalW">
